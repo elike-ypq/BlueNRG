@@ -1,0 +1,10 @@
+BlueNRG1_pka.c:85:6:PKA_Reset	0	static
+BlueNRG1_pka.c:101:6:PKA_StartProcessing	0	static
+BlueNRG1_pka.c:117:6:PKA_WaitProcess	0	static
+BlueNRG1_pka.c:129:12:PKA_GetProcessStatus	0	static
+BlueNRG1_pka.c:141:13:PKA_VerifyProcess	0	static
+BlueNRG1_pka.c:166:6:PKA_ITConfig	0	static
+BlueNRG1_pka.c:189:6:PKA_ClearITPendingBit	0	static
+BlueNRG1_pka.c:207:12:PKA_GetFlagStatus	0	static
+BlueNRG1_pka.c:230:13:PKA_SetData	12	static
+BlueNRG1_pka.c:267:13:PKA_GetData	0	static

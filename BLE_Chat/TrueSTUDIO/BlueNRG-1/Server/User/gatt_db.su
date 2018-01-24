@@ -1,0 +1,2 @@
+gatt_db.c:31:9:Add_Chat_Service	96	static
+gatt_db.c:75:6:Attribute_Modified_CB	16	static

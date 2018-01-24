@@ -1,0 +1,10 @@
+chat.c:66:9:CHAT_DeviceInit	56	static
+chat.c:150:6:Process_InputData	56	static
+chat.c:207:6:Make_Connection	64	static
+chat.c:246:6:APP_Tick	16	static
+chat.c:332:6:hci_le_connection_complete_event	8	static
+chat.c:361:6:hci_disconnection_complete_event	8	static
+chat.c:391:6:aci_gatt_attribute_modified_event	8	static
+chat.c:486:6:aci_gatt_tx_pool_available_event	0	static
+chat.c:501:6:aci_gatt_read_permit_req_event	8	static
+chat.c:512:6:aci_hal_end_of_radio_activity_event	0	static

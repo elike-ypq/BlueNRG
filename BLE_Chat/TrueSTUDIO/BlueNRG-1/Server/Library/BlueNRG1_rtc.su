@@ -1,0 +1,14 @@
+BlueNRG1_rtc.c:85:6:RTC_Init	8	static
+BlueNRG1_rtc.c:109:6:RTC_StructInit	0	static
+BlueNRG1_rtc.c:130:6:RTC_Cmd	0	static
+BlueNRG1_rtc.c:153:6:RTC_IT_Config	0	static
+BlueNRG1_rtc.c:177:10:RTC_IT_Status	0	static
+BlueNRG1_rtc.c:200:6:RTC_IT_Clear	0	static
+BlueNRG1_rtc.c:215:6:RTC_ClockwatchCmd	0	static
+BlueNRG1_rtc.c:234:6:RTC_SetTimeDate	16	static
+BlueNRG1_rtc.c:273:6:RTC_SetMatchTimeDate	16	static
+BlueNRG1_rtc.c:312:6:RTC_GetTimeDate	0	static
+BlueNRG1_rtc.c:341:10:RTC_GetTimerValue	0	static
+BlueNRG1_rtc.c:352:10:RTC_GetNumberIrqGenerated	0	static
+BlueNRG1_rtc.c:365:6:RTC_AutoStart	0	static
+BlueNRG1_rtc.c:385:6:RTC_SelectTrimmedClock	0	static

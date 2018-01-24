@@ -1,0 +1,17 @@
+BlueNRG1_mft.c:84:6:MFT_DeInit	0	static
+BlueNRG1_mft.c:102:6:MFT_Init	12	static
+BlueNRG1_mft.c:142:6:MFT_StructInit	0	static
+BlueNRG1_mft.c:160:6:MFT_Cmd	0	static
+BlueNRG1_mft.c:184:6:MFT_TnEDGES	12	static
+BlueNRG1_mft.c:203:6:MFT_PulseTrainTriggerSelect	0	static
+BlueNRG1_mft.c:217:6:MFT_PulseTrainSoftwareTrigger	0	static
+BlueNRG1_mft.c:235:6:MFT_TnXEN	0	static
+BlueNRG1_mft.c:261:6:MFT_SelectCapturePin	0	static
+BlueNRG1_mft.c:291:6:MFT_SetCounter	0	static
+BlueNRG1_mft.c:308:6:MFT_SetCounter1	0	static
+BlueNRG1_mft.c:323:10:MFT_GetCounter1	0	static
+BlueNRG1_mft.c:338:6:MFT_SetCounter2	0	static
+BlueNRG1_mft.c:353:10:MFT_GetCounter2	0	static
+BlueNRG1_mft.c:374:6:MFT_EnableIT	0	static
+BlueNRG1_mft.c:399:6:MFT_ClearIT	0	static
+BlueNRG1_mft.c:419:10:MFT_StatusIT	0	static
